@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+//aici exista un commentatiru din fisierul cere nu mai exista
         }
     }
 }

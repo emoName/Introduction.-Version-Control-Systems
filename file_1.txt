@@ -5,9 +5,11 @@ namespace HelloWorld
     {
         static void Main() 
         {
-            Console.WriteLine("Hello this is your World!");
 
-            // Keep the console window open in debug mode.
+            Console.WriteLine("Hello my  World!");
+
+
+            
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
